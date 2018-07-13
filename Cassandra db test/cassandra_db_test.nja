@@ -1,0 +1,29 @@
+{
+  "mainFile": "C:/Users/ricardo.calvimonte/Documents/python/json tool/example1.py", 
+  "use-tabs": false, 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "Cassandra db test", 
+  "license": "GNU General Public License v3", 
+  "url": "", 
+  "pythonPath": "C:/Users/ricardo.calvimonte/AppData/Local/Programs/Python/Python37/pythonw.exe", 
+  "preExecScript": "", 
+  "additional_builtins": [], 
+  "programParams": "", 
+  "indentation": 4, 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "", 
+  "description": ""
+}
